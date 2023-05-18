@@ -5,9 +5,9 @@ Laravel 10 Firebase Web Push Notification
 </p>
 
 <p align="center">
-  <img src="https://github.com/lisshporta/push-notification/assets/37953470/47aea75a-d7bc-46fd-ba98-427c7c34b16e" width="300" alt="desktop">
+  <img src="public/desktop.jpg" alt="Image 1" width="300">
 </p>
-    
+
 <p align="center">
-  <img src="https://github.com/lisshporta/push-notification/assets/37953470/083263c0-7f3f-4f7c-9087-144dd3e3b0e7" width="500" alt="chrome">    
+  <img src="public/chrome.jpg" alt="Image 2" width="400">
 </p>
