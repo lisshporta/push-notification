@@ -23,7 +23,7 @@
                             <label>Message Body</label>
                             <textarea class="form-control" name="body"></textarea>
                         </div>
-                        <button type="submit" class="btn btn-success btn-block">Send Notification</button>
+                        <button type="submit" class="btn btn-success btn-block mt-2">Send Notification</button>
                     </form>
                 </div>
             </div>
